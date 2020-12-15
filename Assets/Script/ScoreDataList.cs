@@ -1,0 +1,9 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+[System.Serializable]
+public class ScoreDataList
+{
+    public List<ScoreData> scoredatalist = new List<ScoreData>();
+}
